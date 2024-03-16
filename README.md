@@ -84,4 +84,19 @@ npm run dev
 cd backend
 ```
 #### 2.Create Virtual environment
+```
+python3 -m venv myenv
+```
+#### 3.Activate the virtual environment
+```
+myenv\Scripts\activate
+```
+#### 4.Install the requirements
+```
+pip install -r requirements.txt
+```
+#### 5.Run the app
+```
+pyhton app.py
+```
 
