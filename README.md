@@ -68,4 +68,20 @@ Witheasiness isn't just an app; it's a vision for the future of wellness. Whethe
 
 Ready to embark on a journey towards a healthier, happier you? Stay tuned for the launch of Witheasiness and be among the first to experience the future of wellness technology.
 
+### Project Setup
+#### 1.Installation for Nextjs App
+```
+npm install
+```
+#### 2. To run
+```
+npm run dev
+```
+
+### Backend 
+#### 1.Navigate to backend folder
+```
+cd backend
+```
+#### 2.Create Virtual environment
 
